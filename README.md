@@ -5,4 +5,4 @@
 - 📫 How to reach me: contact@thehtmlproject.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm self-taught and good at finding games.
-- This is not my main website. Please go to thehtmlproject.com/redirect to see my website
+- This is not my main website. Please go to https://thehtmlproject.com to see my website
